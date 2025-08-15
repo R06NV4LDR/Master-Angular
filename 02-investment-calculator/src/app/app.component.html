@@ -1,6 +1,6 @@
 <app-header/>
-<app-user-input/>
+<app-user-input (calculate)="onCalculateInvestmentResults($event)"/>
+ 
+<app-investment-results />
 
-<p class="center"> Please enter some values and press "Calculate"</p>
-<app-investment-results/>
-<h1 class="center">Practice Time!</h1>
+<!-- [results]="resultsData" -->
