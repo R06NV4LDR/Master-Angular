@@ -1,3 +1,6 @@
 [submodule "01-starting-project"]
 	path = 01-starting-project
 	url = https://github.com/R06NV4LDR/Angular_01-starting-project
+[submodule "02-investment-calculator"]
+	path = 02-investment-calculator
+	url = https://github.com/R06NV4LDR/02-investment-calculator
