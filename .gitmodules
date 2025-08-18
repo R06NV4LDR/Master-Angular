@@ -4,3 +4,6 @@
 [submodule "02-investment-calculator"]
 	path = 02-investment-calculator
 	url = https://github.com/R06NV4LDR/02-investment-calculator
+[submodule "03-debugging"]
+	path = 03-debugging
+	url = https://github.com/R06NV4LDR/MasterAngular_03-debugging
