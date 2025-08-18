@@ -7,7 +7,8 @@
           id="initial-investment"
           name="initial-investment"
           type="number"
-          [(ngModel)]="enteredInitiialInvestment"
+          [ngModel]="enteredInitialInvestment()"
+          (ngModelChange)="enteredInitialInvestment.set(+($event || 0))"
         />
       </p>
       <p>
@@ -16,7 +17,8 @@
           id="annual-investment"
           name="annual-investment"
           type="number"
-          [(ngModel)]="enteredAnnualInvestment"
+          [ngModel]="enteredAnnualInvestment()"
+          (ngModelChange)="enteredAnnualInvestment.set(+($event || 0))"
         />
       </p>
     </div>
@@ -27,16 +29,18 @@
           id="expected-return"
           name="expected-return"
           type="number"
-          [(ngModel)]="enteredExpectedReturn"
+          [ngModel]="enteredExpectedReturn()"
+          (ngModelChange)="enteredExpectedReturn.set(+($event || 0))"
         />
       </p>
       <p>
         <label for="duration">Duration</label>
         <input
-        id="duration"
-        name="duration"
-        type="number"
-          [(ngModel)]="enteredDuration"
+          id="duration"
+          name="duration"
+          type="number"
+          [ngModel]="enteredDuration()"
+          (ngModelChange)="enteredDuration.set(+($event || 0))"
         />
       </p>
     </div>
