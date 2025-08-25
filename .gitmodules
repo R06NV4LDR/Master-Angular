@@ -22,3 +22,6 @@
 [submodule "06-pipe-deep-dive"]
 	path = 06-pipe-deep-dive
 	url = https://github.com/R06NV4LDR/MasterAngular_06-pipe-deep-dive
+[submodule "07-services-deep-dive"]
+	path = 07-services-deep-dive
+	url = https://github.com/R06NV4LDR/MasterAngular_07-services-deep-dive
