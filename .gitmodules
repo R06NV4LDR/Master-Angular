@@ -13,3 +13,9 @@
 [submodule "04.1-cmp-lifecycle"]
 	path = 04.1-cmp-lifecycle
 	url = https://github.com/R06NV4LDR/MasterAngular_04.1-cmp-lifecycle
+[submodule "04.2w-binding"]
+	path = 04.2w-binding
+	url = https://github.com/R06NV4LDR/MasterAngular04.2w-binding
+[submodule "05-drc-deep-dive"]
+	path = 05-drc-deep-dive
+	url = https://github.com/R06NV4LDR/MasterAngular_05-drc-deep-dive
