@@ -25,3 +25,6 @@
 [submodule "07-services-deep-dive"]
 	path = 07-services-deep-dive
 	url = https://github.com/R06NV4LDR/MasterAngular_07-services-deep-dive
+[submodule "08-change-detection-deep-dive"]
+	path = 08-change-detection-deep-dive
+	url = https://github.com/R06NV4LDR/MasterAngular_08-change-detection-deep-dive
