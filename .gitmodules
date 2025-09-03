@@ -28,3 +28,6 @@
 [submodule "08-change-detection-deep-dive"]
 	path = 08-change-detection-deep-dive
 	url = https://github.com/R06NV4LDR/MasterAngular_08-change-detection-deep-dive
+[submodule "09-rxjs-observables"]
+	path = 09-rxjs-observables
+	url = https://github.com/R06NV4LDR/MasterAngular_09-rxjs-observables
