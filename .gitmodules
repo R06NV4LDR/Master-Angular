@@ -34,3 +34,7 @@
 	path = 09-rxjs-observables
 	url = https://github.com/R06NV4LDR/MasterAngular_09-rxjs-observables
 	branch = main
+[submodule "10-http-requests"]
+	path = 10-http-requests
+	url = https://github.com/R06NV4LDR/MasterAngular_10-http-requests
+	branch = main
