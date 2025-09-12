@@ -38,3 +38,6 @@
 	path = 10-http-requests
 	url = https://github.com/R06NV4LDR/MasterAngular_10-http-requests
 	branch = main
+[submodule "11-user-inputs"]
+	path = 11-user-inputs
+	url = https://github.com/R06NV4LDR/MasterAngular_11-user-inputs
