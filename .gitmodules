@@ -41,3 +41,6 @@
 [submodule "11-user-inputs"]
 	path = 11-user-inputs
 	url = https://github.com/R06NV4LDR/MasterAngular_11-user-inputs
+[submodule "12-routing"]
+	path = 12-routing
+	url = https://github.com/R06NV4LDR/MasterAngular_12-routing
