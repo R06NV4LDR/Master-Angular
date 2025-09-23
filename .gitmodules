@@ -44,3 +44,6 @@
 [submodule "12-routing"]
 	path = 12-routing
 	url = https://github.com/R06NV4LDR/MasterAngular_12-routing
+[submodule "13-defferable-views"]
+	path = 13-defferable-views
+	url = https://github.com/R06NV4LDR/MasterAngular_13-defferable-views
