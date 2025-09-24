@@ -50,3 +50,6 @@
 [submodule "14-deployment"]
 	path = 14-deployment
 	url = https://github.com/R06NV4LDR/MasterAngular_14-deployment
+[submodule "18-ngrx"]
+	path = 18-ngrx
+	url = https://github.com/R06NV4LDR/MasterAngular_18-ngrx
