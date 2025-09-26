@@ -53,3 +53,6 @@
 [submodule "18-ngrx"]
 	path = 18-ngrx
 	url = https://github.com/R06NV4LDR/MasterAngular_18-ngrx
+[submodule "20-shoppinglist-recipe"]
+	path = 20-shoppinglist-recipe
+	url = https://github.com/R06NV4LDR/MasterAngular_20-shoppinglist-recipe
