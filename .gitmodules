@@ -56,3 +56,6 @@
 [submodule "20-shoppinglist-recipe"]
 	path = 20-shoppinglist-recipe
 	url = https://github.com/R06NV4LDR/MasterAngular_20-shoppinglist-recipe
+[submodule "15-authentication"]
+	path = 15-authentication
+	url = https://github.com/R06NV4LDR/MasterAngular_15-authentication
